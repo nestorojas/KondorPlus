@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "Kondor+.dll": "sha256-WvgMTXovs0mvS9ZRyd3vpA31VrRpIayOl2C7yIwgxqM=",
+      "Kondor+.dll": "sha256-YDHn6m8UlpmvchQGPsG1ElCs9golnPUH3pwWpdjwXNI=",
       "Microsoft.AspNetCore.Components.dll": "sha256-66EmQVcdDfpMaaHDkk6Y1bX\/N5F33DLK9yJB9eiNmKM=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-ITY9jR0xQAi62\/J+AwHwvd1cxeNWcmoOcAnkYqaH6HA=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-jj0gEWGz0IP5DtImmDS2JCnL7nDJvw39GXaOgt9q2BU=",
