@@ -1,2 +1,0 @@
-# KondorPlus
-Company Site
