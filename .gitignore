@@ -1,0 +1,20 @@
+# Common IDE files
+.idea/
+.vscode/
+
+# Python-related
+__pycache__/
+dist/
+.coverage*
+htmlcov/
+.tox/
+
+# Virtual environment
+.venv*/
+venv*/
+
+# macOS specific
+.DS_Store
+
+# Environment variable
+Kondor_env/
